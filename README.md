@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @SushantmaniTripathi
-- 👀 I’m interested in Artificial intelligence and Machine Learning
-- 🌱 I’m currently learning Trending skills
-- 💞️ I’m looking to collaborate to your company
-- 📫 How to reach me Github...
+#print(Sushantmani Tripathi)
 
+(output)...
 
-<!---
-SushantmaniTripathi/SushantmaniTripathi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+--👋 Hello there! I’m Sushantmani Tripathi.  
+--🚀 Passionate Explorer: Deeply intrigued by Artificial Intelligence and Machine Learning, I thrive on creating solutions that bridge innovation with impact.  
+--🌱 Lifelong Learner:** Constantly evolving with trending technologies, I’m always on the hunt for new skills to sharpen my edge.  
+--🤝 Collaborator at Heart: Excited to connect and work on transformative ideas—your next big project could be ours!  
+--📫 Let’s Connect: Reach out via [GitHub](https://github.com/SushantmaniTripathi) or drop a message in the stars of my repos!  
+
+---
+
