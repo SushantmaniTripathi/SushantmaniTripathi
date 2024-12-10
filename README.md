@@ -1,6 +1,3 @@
-#print(Sushantmani Tripathi)
-
-(output)...
 
 👋 Hello there! I’m Sushantmani Tripathi.  
 🚀 Passionate Explorer: Deeply intrigued by Artificial Intelligence and Machine Learning, I thrive on creating solutions that bridge innovation with impact.  
