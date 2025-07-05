@@ -1,12 +1,15 @@
 
-👋 Hello there! I’m @SushantmaniTripathi.  
 
-🚀 Passionate Explorer: Deeply intrigued by Artificial Intelligence and Machine Learning, I thrive on creating solutions that bridge innovation with impact.  
+👋 Hi, I’m @SushantmaniTripathi
+AI & ML enthusiast focused on creating impactful, real-world solutions.
 
-🌱 Lifelong Learner: Constantly evolving with trending technologies, I’m always on the hunt for new skills to sharpen my edge.  
+* 🚀 Passionate about Artificial Intelligence & Machine Learning
+* 🌱 Lifelong learner, always exploring new technologies
+* 🤝 Team-oriented and open to collaboration on innovative projects
+* 📂 Active on GitHub with hands-on projects and contributions
 
-🤝 Collaborator at Heart: Excited to connect and work on transformative ideas—your next big project could be ours!  
+📫 Let’s connect :
 
-📫 Let’s Connect: Reach out via [GitHub](https://github.com/SushantmaniTripathi) or drop a message in the stars of my repos!  
-
+🔗 [GitHub](https://github.com/SushantmaniTripathi) | 
+🔗 [LinkedIn](https://linkedin.com/in/SushantmaniTripathi)
 
