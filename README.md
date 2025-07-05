@@ -1,5 +1,5 @@
 
-👋 Hello there! I’m Sushantmani Tripathi.  
+👋 Hello there! I’m @SushantmaniTripathi.  
 
 🚀 Passionate Explorer: Deeply intrigued by Artificial Intelligence and Machine Learning, I thrive on creating solutions that bridge innovation with impact.  
 
