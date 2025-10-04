@@ -2,7 +2,7 @@
 <h3 align="center">🚀 AI/ML Developer | Building Intelligent Systems | India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Deep+Learning+%7C+AI+Agents;Building+Smart+Applications;Always+Learning+%F0%9F%93%9A" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Deep+Learning+%7C+AI+Agents;Building+Smart+Applications;Always+Learning+📚" alt="Typing SVG"/>
 </p>
 
 ---
@@ -44,7 +44,7 @@
 
 ### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushantmanitripathi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sushantmanitripathi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&hide=contribs" alt="GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sushantmanitripathi&show_icons=true&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
 </p>
 
@@ -52,7 +52,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantmanitripathi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
----
 
 ### ⚡ Fun Fact  
 💭 *"AI won’t replace humans, but humans using AI will replace those who don’t."*  
