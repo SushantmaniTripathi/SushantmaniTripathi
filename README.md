@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushantmani Tripathi</h1>
-<h3 align="center">🚀 AI/ML Developer | Building Intelligent Systems | India</h3>
+<h3 align="center">🚀 AI/ML Developer | Building Intelligent Systems </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Deep+Learning+%7C+AI+Agents;Building+Smart+Applications;Always+Learning+📚" alt="Typing SVG"/>
@@ -18,11 +18,13 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-<a href="https://linkedin.com/in/sushantmanitripathi" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-</a>
+  <a href="https://linkedin.com/in/sushantmanitripathi" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="mailto:sushantmanitripathiji@gmail.com" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Email-in-alt.svg" alt="Email" height="30" width="40"/>
+  </a>
 </p>
-
 ---
 
 ### 🛠️ Languages & Tools  
