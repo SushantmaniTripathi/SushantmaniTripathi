@@ -18,14 +18,13 @@
 
 ### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/sushantmanitripathi" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="mailto:sushantmanitripathiji@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Email-in-alt.svg" alt="Email" height="30" width="40"/>
-  </a>
+  <a href="https://linkedin.com/in/sushantmanitripathi" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="mailto:sushantmanitripathiji@gmail.com" target="blank" style="text-decoration: none;">
+    <img align="center" src="https://thumbs.dreamstime.com/b/gmail-logo-201003176.jpg" alt="Gmail" height="30" width="40"/>
+  </a>
 </p>
----
 
 ### 🛠️ Languages & Tools  
 <p align="left"> 
