@@ -44,7 +44,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushantmanitripathi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-
 ### 🌐 Connect with Me  
 <p align="left">
   <a href="https://linkedin.com/in/sushantmanitripathi" target="blank" style="text-decoration: none;">
