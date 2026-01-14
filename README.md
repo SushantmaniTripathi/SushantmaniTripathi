@@ -5,8 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00C9FF&center=true&vCenter=true&width=600&lines=AI+%26+Machine+Learning+Enthusiast;Deep+Learning+%7C+AI+Agents;Building+Smart+Applications;Always+Learning+📚" alt="Typing SVG"/>
 </p>
 
----
-
+--- 
 ### 👨‍💻 About Me  
 - 🔭 Currently exploring **AI Agents & Autonomous Systems**  
 - 🌱 Expanding expertise in **Machine Learning | Deep Learning | MLOps**  
@@ -27,8 +26,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a> 
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/></a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/></a> 
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a> 
 </p>
 
 
