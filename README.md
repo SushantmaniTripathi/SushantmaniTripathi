@@ -33,16 +33,26 @@
 
 ---
 
-### 📊 GitHub Analytics  
-<!-- GitHub Stats -->
+<!-- GitHub Overall Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushantmanitripathi&show_icons=false&layout=compact&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantmanitripathi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sushantmanitripathi&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+    height="160"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantmanitripathi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    height="160"
+    alt="Top Languages"
+  />
 </p>
 
-<!-- Streak (alternative host: demolab) -->
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sushantmanitripathi&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com?user=sushantmanitripathi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
+    alt="GitHub Streak"
+  />
 </p>
 
 
