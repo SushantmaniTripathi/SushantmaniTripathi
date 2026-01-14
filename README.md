@@ -31,31 +31,6 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a> 
 </p>
 
----
-
-<!-- GitHub Overall Stats -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sushantmanitripathi&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-    height="160"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushantmanitripathi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    height="160"
-    alt="Top Languages"
-  />
-</p>
-
-<!-- GitHub Streak Stats -->
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=sushantmanitripathi&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"
-    alt="GitHub Streak"
-  />
-</p>
-
-
 
 ### 🌐 Connect with Me  
 <p align="left">
