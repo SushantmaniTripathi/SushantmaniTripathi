@@ -8,7 +8,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently exploring **AI Agents & Autonomous Systems**
+- 🔭 Currently building **AI Agents & Autonomous Systems** for Businesses
 - 🌱 Expanding expertise in **Machine Learning | Deep Learning | MLOps**
 - 💡 Passionate about turning ideas into impactful **AI-driven products**
 - 📂 All my projects live here → [GitHub Portfolio](https://github.com/SushantmaniTripathi)
