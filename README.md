@@ -10,7 +10,6 @@
   <a href="https://linkedin.com/in/sushantmanitripathi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sushantmanitripathiji@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/SushantmaniTripathi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=SushantmaniTripathi&color=00c9ff&style=flat-square&label=Profile+Views"/>
 </p>
 
 ---
