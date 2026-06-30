@@ -29,7 +29,7 @@ I design and ship **end-to-end AI systems** — not demos, not tutorials — pro
 
 ---
 
-## 🛠 Tech Stack — 2026
+## 🛠 Tech Stack 
 
 #### Core AI / LLM
 
