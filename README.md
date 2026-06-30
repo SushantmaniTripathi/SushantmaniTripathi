@@ -85,7 +85,6 @@ I design and ship **end-to-end AI systems** — not demos, not tutorials — pro
 
 - **Agent-as-a-Service** — deploying tool-using LLM agents with persistent memory & async execution for business workflows  
 - **Production RAG** — improving retrieval precision with hybrid BM25 + dense search + cross-encoder reranking  
-- **Fine-tuning pipelines** — LoRA/QLoRA adapters on domain-specific corpora with automated eval before deployment  
 - **LLM Evaluation** — building systematic hallucination detection + RAGAS-based pipeline benchmarks  
 
 ---
