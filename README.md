@@ -7,10 +7,15 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/sushantmanitripathi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sushantmanitripathiji@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/SushantmaniTripathi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://x.com/SushantmaniT"><img src="https://img.shields.io/badge/ @Sushant -181717?style=flat-square&logo=X&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sushantmanitripathi">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sushantmanitripathiji@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://x.com/SushantmaniT">
+    <img src="https://img.shields.io/badge/@Sushant-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
 </p>
 
 ---
