@@ -22,7 +22,7 @@
 
 ## What I Actually Build
 
-I design and ship **end-to-end AI systems** — not demos, not tutorials — production systems with real retrieval pipelines, real latency constraints, and real evaluation loops.
+I design and ship **end-to-end AI systems** — production systems with real retrieval pipelines, real latency constraints, and real evaluation loops.
 
 | What | How |
 |------|-----|
