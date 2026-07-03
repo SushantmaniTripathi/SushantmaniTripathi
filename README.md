@@ -12,7 +12,6 @@
   <a href="https://github.com/SushantmaniTripathi"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
   <a href="https://x.com/SushantmaniT"><img src="https://img.shields.io/badge/ @Sushant -181717?style=flat-square&logo=X&logoColor=white"/></a>
 
-  https://x.com/SushantmaniT
 </p>
 
 ---
