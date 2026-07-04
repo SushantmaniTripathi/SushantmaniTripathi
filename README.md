@@ -100,7 +100,7 @@ I design and ship **end-to-end AI systems** — production systems with real ret
 
 ---
 
-## 📫 Let's Talk AI
+## 📫 Work With Me
 
 I am open to AI collaborations, internships, and full-time roles in AI systems, Agent infrastructure, RAG, or Applied AI development.
 
