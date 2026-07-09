@@ -2,9 +2,9 @@
 
 <h3 align="center">AI Engineer · Building Production-Grade LLM Systems & Autonomous Agents</h3>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=700&lines=LLM+Systems+%7C+RAG+Pipelines+%7C+AI+Agents;Vector+Search+%7C+Embeddings+%7C+Fine-Tuning;MLOps+%7C+Model+Serving+%7C+Evaluation+Frameworks;From+Prototype+to+Production+%E2%80%94+Every+Time" alt="Typing SVG" />
-</p>
+</p> -->
 
 <p align="center">
   <a href="https://linkedin.com/in/sushantmanitripathi">
@@ -88,7 +88,7 @@ I design and ship **end-to-end AI systems** — production systems with real ret
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SushantmaniTripathi&theme=dark" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SushantmaniTripathi&theme=dark" height="180"  />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SushantmaniTripathi&theme=dark" height="180" />
 
 </div>
@@ -97,7 +97,7 @@ I design and ship **end-to-end AI systems** — production systems with real ret
 
 ## 📫 Work With Me
 
-I am open to AI collaborations, internships, and full-time roles in AI systems, Agent infrastructure, RAG, or Applied AI development.
+I am open to AI collaborations, internships, and full-time roles in AI/ML systems, Agent infrastructure, RAG, or Applied AI development.
 
 If you are building production AI, whether agents, RAG, evals, or LLM infrastructure, I work from Notebook to deployment and ship systems that can be inspected, tested, and improved.
 
