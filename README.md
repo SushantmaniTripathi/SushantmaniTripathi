@@ -79,14 +79,13 @@ I design and ship **end-to-end AI systems** — production systems with real ret
 
 ### 📊 Github stats
 
-
 <div align="center">
 
 <a href="https://github.com/SushantmaniTripathi">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SushantmaniTripathi&theme=tokyonight" height="180" />
 </a>
 <a href="https://github.com/SushantmaniTripathi">
-  <img src="https://streak-stats.demolab.com/?user=SushantmaniTripathi&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SushantmaniTripathi&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" />
 </a>
 
 </div>
