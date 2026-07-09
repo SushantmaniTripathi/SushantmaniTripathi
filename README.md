@@ -82,18 +82,15 @@ I design and ship **end-to-end AI systems** — production systems with real ret
 <div align="center">
 
 <a href="https://github.com/SushantmaniTripathi">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SushantmaniTripathi&theme=tokyonight" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SushantmaniTripathi&theme=highcontrast" height="180" />
 </a>
-<a href="https://github.com/SushantmaniTripathi">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SushantmaniTripathi&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" />
-</a>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=SushantmaniTripathi&theme=highcontrast" alt="GitHub Streak" height="180" /></a>
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SushantmaniTripathi&theme=tokyonight" height="180" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SushantmaniTripathi&theme=tokyonight" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SushantmaniTripathi&theme=highcontrast" height="180" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SushantmaniTripathi&theme=highcontrast" height="180" />
 
 </div>
 
