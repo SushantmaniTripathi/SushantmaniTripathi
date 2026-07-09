@@ -15,7 +15,6 @@
   </a>
   <a href="https://x.com/SushantmaniT">
     <img src="https://img.shields.io/badge/@Sushant-000000?style=for-the-badge&logo=x&logoColor=white"/>
-  </a>
 </p>
 
 ---
