@@ -85,12 +85,12 @@ I design and ship **end-to-end AI systems** — production systems with real ret
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=SushantmaniTripathi&theme=dark&hide_border=true" alt="GitHub Streak" height="180" /></a>
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SushantmaniTripathi&theme=dark" height="180"  />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SushantmaniTripathi&theme=dark" height="180" />
 
-</div>
+</div> -->
 
 ---
 
