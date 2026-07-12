@@ -1,4 +1,4 @@
-+<h1 align="center">Sushant Tripathi</h1>
+<h1 align="center">Sushant Tripathi</h1>
 
 <h3 align="center">AI Engineer · Building Production-Grade LLM Systems & Autonomous Agents</h3>
 
