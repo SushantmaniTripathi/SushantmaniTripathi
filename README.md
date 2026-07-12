@@ -1,4 +1,4 @@
-<h1 align="center">Sushant Tripathi</h1>
++<h1 align="center">Sushant Tripathi</h1>
 
 <h3 align="center">AI Engineer · Building Production-Grade LLM Systems & Autonomous Agents</h3>
 
@@ -27,8 +27,7 @@ I design and ship **end-to-end AI systems** — production systems with real ret
 |------|-----|
 | **Autonomous AI Agents** | Multi-agent orchestration with LangGraph, CrewAI, tool-calling loops, memory & planning |
 | **RAG Pipelines** | Chunking strategies, hybrid search (dense + sparse), reranking, citation grounding |
-| **LLM APIs** | OpenAI, Anthropic Claude, Gemini — structured outputs, function calling, streaming |
-| **Vector Search** | Qdrant, ChromaDB, Pinecone — indexing, HNSW tuning, semantic retrieval at scale |
+| **Vector Search** | Qdrant, ChromaDB, Pinecone — indexing, semantic retrieval at scale |
 | **MLOps & Serving** | FastAPI inference endpoints, Docker, model versioning, CI/CD for ML pipelines |
 | **Eval & Observability** | LLM-as-judge, RAGAS, hallucination detection, LangSmith / Arize tracing |
 
