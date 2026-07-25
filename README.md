@@ -74,7 +74,7 @@ I design and ship **end-to-end AI systems** — production systems with real ret
 - **Production RAG** — improving retrieval precision with hybrid BM25 + dense search + cross-encoder reranking  
 - **LLM Evaluation** — building systematic hallucination detection + RAGAS-based pipeline benchmarks  
 
----
+<!---
 
 ### 📊 Github stats
 
@@ -84,7 +84,7 @@ I design and ship **end-to-end AI systems** — production systems with real ret
 </div>
 
  
----
+--->
 
 ## 📫 Work With Me
 
