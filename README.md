@@ -6,8 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=00C9FF&center=true&vCenter=true&width=700&lines=LLM+Systems+%7C+RAG+Pipelines+%7C+AI+Agents;Vector+Search+%7C+Embeddings+%7C+Fine-Tuning;MLOps+%7C+Model+Serving+%7C+Evaluation+Frameworks;From+Prototype+to+Production+%E2%80%94+Every+Time" alt="Typing SVG" />
 </p> -->
 
+![Profile views](https://komarev.com/ghpvc/?username=SushantmaniTripathi&label=Profile%20views&color=0e75b6&style=flat)
+
 <p align="center">
-  ![Profile view counter on GitHub]([https://github.com/SushantmaniTripathi/SushantmaniTripathi])
 
   <a href="https://linkedin.com/in/sushantmanitripathi">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
