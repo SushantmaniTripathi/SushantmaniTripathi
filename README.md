@@ -74,17 +74,6 @@ I design and ship **end-to-end AI systems** — production systems with real ret
 - **Production RAG** — improving retrieval precision with hybrid BM25 + dense search + cross-encoder reranking  
 - **LLM Evaluation** — building systematic hallucination detection + RAGAS-based pipeline benchmarks  
 
-<!---
-
-### 📊 Github stats
-
-<div align="center">
-
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=SushantmaniTripathi&theme=dark&hide_border=true" alt="GitHub Streak" height="180" /></a>
-</div>
-
- 
---->
 
 ## 📫 Work With Me
 
