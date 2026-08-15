@@ -1,7 +1,7 @@
-
+ 
 <h1 align="center">Sushant Tripathi</h1>
 
-<h3 align="center">AI Engineer · Building broked and messy Production LLM Systems </h3>
+<h3 align="center">AI Engineer · Building broked and messy Production LLM Systems (0 -> 1) </h3>
 
 
 
