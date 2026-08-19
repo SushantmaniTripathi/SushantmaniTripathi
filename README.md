@@ -70,7 +70,7 @@ I design and ship **end-to-end AI systems** — production systems with real ret
 ## 🔭 Currently Working On (2026)
 
 - **Agent-as-a-Service** — deploying tool-using LLM agents with persistent memory & async execution for business workflows
-- **Organization** -Selected and Contributing to official @IBM and @c2siorg organizations 
+- **Organization** -Selected and Contributing to official @IBM and @c2si organizations 
 - **Production RAG** — improving retrieval precision with hybrid BM25 + dense search + cross-encoder reranking  
 - **LLM Evaluation** — building systematic hallucination detection + RAGAS-based pipeline benchmarks  
 
