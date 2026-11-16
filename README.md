@@ -1,87 +1,90 @@
- 
-<h1 align="center">Sushant Tripathi</h1>
 
-<h3 align="center">AI Engineer · Building broked and messy Production LLM Systems ( 0 --> ∞ ) </h3>
+<img width="905" height="236" alt="image" src="https://github.com/user-attachments/assets/927ba95a-4ed5-42d3-82a1-b9b5140f2b3e" /> 
 
+<br/>
 
+<div align="center">
+<a href="https://linkedin.com/in/sushantmanitripathi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:sushantmanitripathiji@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</div>
 
-<p align="center">
-  
-  <a href="https://linkedin.com/in/sushantmanitripathi">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sushantmanitripathiji@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://x.com/SushantmaniT">
-    <img src="https://img.shields.io/badge/@Sushant-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</p>
+<br/>
 
----
+```python
+class Sushant:
+    role       = "AI Engineer"
+    builds     = ["autonomous agents", "production RAG", "LLM evals", "serving infra"]
+    philosophy = "if it can't be inspected, tested and improved, it isn't shipped"
+    orgs       = ["@IBM", "@c2si"]            # selected + contributing
+    status     = "open to internships / full-time / collabs"
+```
 
-## What I Actually Build
+<br/>
 
-I design and ship **end-to-end AI systems** — production systems with real retrieval pipelines, real latency constraints, and real evaluation loops.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| What | How |
-|------|-----|
-| **Autonomous AI Agents** | Multi-agent orchestration with LangGraph, CrewAI, tool-calling loops, memory & planning |
-| **RAG Pipelines** | Chunking strategies, hybrid search (dense + sparse), reranking, citation grounding |
-| **Vector Search** | Qdrant, ChromaDB, Pinecone — indexing, semantic retrieval at scale |
-| **MLOps & Serving** | FastAPI inference endpoints, Docker, model versioning, CI/CD for ML pipelines |
-| **Eval & Observability** | LLM-as-judge, RAGAS, hallucination detection, LangSmith / Arize tracing |
+**Agents**
+LangGraph · CrewAI · tool-calling loops · persistent memory · async execution
 
----
+**Retrieval**
+Chunking · hybrid search · reranking · citation grounding
 
-## 🛠 MY Stack 
+</td>
+<td width="50%" valign="top">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anthropic_Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+**Evals**
+Hallucination detection · RAGAS benchmarks · LLM-as-judge
 
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge&logo=meta&logoColor=white"/>
+**Serving**
+FastAPI · Docker · model versioning · CI/CD for ML
 
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</td>
+</tr>
+</table>
 
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<br/>
 
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+## Stack
 
----
+<div align="center">
 
-## 🔭 Currently Working On (2026)
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,fastapi,nodejs,js,docker,aws,gcp,firebase,postgres,mongodb,githubactions&perline=13"/>
 
-- **Agent-as-a-Service** — deploying tool-using LLM agents with persistent memory & async execution for business workflows
-- **Organization** -Selected and Contributing to official @IBM and @c2si organizations 
-- **Production RAG** — improving retrieval precision with hybrid BM25 + dense search + cross-encoder reranking  
-- **LLM Evaluation** — building systematic hallucination detection + RAGAS-based pipeline benchmarks  
+<br/><br/>
 
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude-D97706?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/FAISS-4285F4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square"/>
 
-## 📫 Work With Me
+</div>
 
-I am open to AI collaborations, internships, and full-time roles in AI/ML systems, Agent infrastructure, RAG, Applied AI development.
+<br/>
 
-If you are building production AI, whether agents, RAG, evals, or LLM infrastructure, I work from Notebook to deployment and ship systems that can be inspected, tested, and improved.
+## Now (2026)
 
-<p align="left">
-  <a href="https://linkedin.com/in/sushantmanitripathi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sushantmanitripathiji@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+| | |
+|---|---|
+| **Agent-as-a-Service** | tool-using agents with persistent memory + async execution for business workflows |
+| **Production RAG** | BM25 + dense + cross-encoder reranking for retrieval precision |
+| **LLM Evaluation** | systematic hallucination detection + RAGAS-based benchmarks |
+| **Open source** | contributing to official **IBM** and **c2si** organizations |
+
+<br/>
+
+<div align="center">
+
+### Building production AI? Let's talk.
+
+<a href="mailto:sushantmanitripathiji@gmail.com"><img src="https://img.shields.io/badge/Say_hi-sushantmanitripathiji@gmail.com-24C6DC?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:24c6dc,50:302b63,100:0f0c29&section=footer"/>
