@@ -14,7 +14,6 @@
 class Sushant:
     role       = "AI Engineer"
     builds     = ["autonomous agents", "production RAG", "LLM evals", "serving infra"]
-    philosophy = "if it can't be inspected, tested and improved, it isn't shipped"
     orgs       = ["@IBM", "@c2si"]            # selected + contributing
     status     = "open to full-Time Roles / collabs"
 ```
