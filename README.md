@@ -25,20 +25,20 @@ class Sushant:
 <tr>
 <td width="50%" valign="top">
 
-**Agents**
-LangGraph · CrewAI · tool-calling loops · persistent memory · async execution
+- **Agents** :
+  LangGraph · CrewAI · tool-calling loops · persistent memory · async execution
 
-**Retrieval**
-Chunking · hybrid search · reranking · citation grounding
+- **Retrieval**:
+  Chunking · hybrid search · reranking · citation grounding
 
 </td>
 <td width="50%" valign="top">
 
-**Evals**
-Hallucination detection · RAGAS benchmarks · LLM-as-judge
+- **Evals**
+  Hallucination detection · RAGAS benchmarks · LLM-as-judge
 
-**Serving**
-FastAPI · Docker · model versioning · CI/CD for ML
+- **Serving**
+  FastAPI · Docker · model versioning · CI/CD for ML
 
 </td>
 </tr>
